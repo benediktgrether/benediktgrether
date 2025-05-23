@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benediktgrether" alt="benediktgrether" /></a> </p>
 
-- 🔭 I’m currently working on [WordPress Gutenberg Custom Blocks](https://docs.everyday.agency/)
+- 🔭 I’m currently working on [WordPress Gutenberg Custom Blocks](https://docs.everyday.agency/) and [Design System with Web Components](https://github.com/benediktgrether/ds-web-components)
 
 - 🌱 I’m currently learning **alpine.js**
 
